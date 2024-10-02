@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Resort website "stayblissretreats.com"**
 
-- 🌱 I’m currently learning **AWS ,Python,Flask**
+- 🌱 I’m currently learning **AWS ,Python,Django**
 
 - 👯 I’m looking to collaborate on **Ai projects**
 
