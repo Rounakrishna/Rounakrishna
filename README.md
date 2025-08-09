@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Krishna</h1>
+<h1 align="center">Hi 👋, I'm Krishna currently working with TCS</h1>
 <h3 align="center">A passionate Python developer and AWS Solution Architect from India</h3>
 
 - 🔭 I’m currently working on **Resort website "stayblissretreats.com"**
